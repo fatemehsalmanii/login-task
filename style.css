@@ -105,6 +105,7 @@ form {
   border-bottom: 1px solid gray;
   padding: 0.2rem 0;
   color: gray;
+  font-size: 13px;
 }
 
 .input-box input:focus {
