@@ -3,7 +3,7 @@ let checkbox = document.getElementById("checkbox");
 
     checkbox.onclick = function(){
         if(password.type === 'password'){
-            password.type = 'email';
+            password.type = 'text';
 
         }else{
             password.type = "password";
